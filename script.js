@@ -7,3 +7,5 @@ for (let i = 0; i < numbers.length; i++) {
   const number = numbers[i];
   ul.innerHtml += `<li>${number}</li>`;
 }
+
+
